@@ -224,13 +224,13 @@ int main()
 
 ## Outputs :
 ### 1.
-
+![Screenshot 2024-10-09 095724](https://github.com/user-attachments/assets/2f8b9ef0-64ea-425a-a444-70b3bde6b04f)
 
 ### 2.
-
+![Screenshot 2024-10-09 095803](https://github.com/user-attachments/assets/58a6275b-f704-48cc-b6f8-0fe651540b25)
 
 ### 3.
-
+![Screenshot 2024-10-09 100120](https://github.com/user-attachments/assets/33537cab-c2ab-424e-b0d2-a6105a0d08de)
 
 ## Conclusion :
 The experiment successfully demonstrated the importance and efficiency of linked lists in C++ programming. The implementation highlighted the advantages of linked lists in terms of dynamic memory management and operation efficiency, while also emphasizing the need for careful pointer management to avoid memory leaks or crashes. This experiment forms a crucial step toward understanding more advanced data structures and algorithms.
